@@ -1,8 +1,8 @@
 {
-  "name": "Alexa WA MD",
+  "name": "ALPHA MD",
   "description": "*🧞‍♂️Power full whatsapp user bot*",
-  "repository": "https://github.com/ChamodKeshan",
-  "logo": "https://github.com/Queen-Alexa.jpg",
+  "repository": "https://github.com/Timasha01Buddila/ALPHA-MD-BOT",
+  "logo": "https://telegra.ph/file/8e40c1953aae06eb8960e.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
