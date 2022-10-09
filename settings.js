@@ -1,6 +1,4 @@
-//════════════(◇■◇)══════════════════════════════════//
-//New Version//
-//════════════(◇■◇)════════════════//
+
 
 const fs = require('fs');
 const chalk = require('chalk');
@@ -21,33 +19,33 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `\n\n*👩‍🦰Queen Alexa*\n*💫🧚‍♀️Hey There Im Alive Now*\n\n*◉Version :► 8.5.1 (Public Release)*\n*◉Branch  :► Awsh*\n*◉About :► Amazone Alexa Is a Powerfull Bot For Whatsapp.*\n*◯●Github Link :►https://tinyurl.com/yhq3c6ms-\n\n*💫©Join Our Group*\n*▷📑News & Update Report*\n_◈https://chat.whatsapp.com/JdNWV3viiGKGINYNrb5oy8*\n▷⚡Official Pluggins Group* \n ◈https://chat.whatsapp.com/JJs2iwfF0VKL3IWrIyr7AT\n*🛡️Support Community*\n https://t.me/Queen_Alexa_Neotrox_Support💞` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `\n\n*🖲️ᴀʟᴘʜᴀ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ʙᴏᴛ🖲️*\n*ʜᴇʏ ᴛʜᴇʀᴇ ɪ'ᴍ ᴏɴʟɪɴᴇ ɴᴏᴡ*\n\n*◉ᴠᴇʀꜱɪᴏɴ :► 1.5.1 (ᴘʀɪᴠᴀᴛᴇ ʀᴇᴀʟɪꜱᴇ)*\n*◉ᴀʙᴏᴜᴛ :► ᴀʟᴘʜᴀ ʙᴏᴛ ɪꜱ ꜱʀɪ ʟᴀɴᴋᴀɴ ʙᴇꜱᴛ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ*\n*◉ᴅᴇᴠᴇʟᴏᴘᴇʀ  :► ᴍʀ.ᴛɪᴍᴀ*\n\nᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴜꜱɪɴɢ ᴀʟᴘʜᴀ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ʙᴏᴛ💞\n\n©ᴀʟᴘʜᴀ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ʙᴏᴛ` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94702256963'] //Owner number in aive msg
-global.premium = ['+94702256963'] //Owner Number info
-global.ownernomer = '+94702256963' //Owner Number <<<
-global.alive_logo = 'https://raw.githubusercontent.com/ChamodKeshan/Alexa-New/main/Alexa-New/media/main.jpg?token=GHSAT0AAAAAABXCNRVWU72ZQMJRKQ2Z5522YX3YTSA'
-global.ownername = 'En*cuzier' 
-global.botname = '*Queen👸Alexa*' 
+global.owner = ['+94715264791'] //Owner number in aive msg
+global.premium = ['+94715264791'] //Owner Number info
+global.ownernomer = '+94715264791' //Owner Number <<<
+global.alive_logo = 'https://telegra.ph/file/8e40c1953aae06eb8960e.jpg'
+global.ownername = 'MR.TIMA' 
+global.botname = 'ᴀʟᴘʜᴀ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ʙᴏᴛ' 
 
-global.button = '◇alexa◇'
-global.myweb = 'github.com/ChamodKeshan'
-global.sc = 'https://github.com/ChamodKeshan'
-global.script = 'https://github.com/ChamodKeshan'
+global.button = 'ᴀʟᴘʜᴀ'
+global.myweb = 'github.com/'
+global.sc = 'https://github.com/'
+global.script = 'https://github.com/'
 global.btnurl = 'https://github.com' 
 
 global.region = 'India, South India, Kerala'
 global.language = 'en'
-global.packname = 'Queen-Alexa'
-global.author = 'En*cuzier' 
+global.packname = 'TIMA'
+global.author = 'TIMA' 
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session'
 global.sp = '⭔'
 ALIVEMSG = 'default'
 
 global.ig = 'https://github.com/Queen-Alexa'
-global.footer = '©_Queen_Alexa.' // DO NOT CHANGE!
-CAPTIONS: process.env.CAPTIONS === undefined ? 'Made By 👩‍🦰Amazone' : process.env.CAPTIONS,
+global.footer = 'ᴀʟᴘʜᴀ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ʙᴏᴛ' // DO NOT CHANGE!
+CAPTIONS: process.env.CAPTIONS === undefined ? 'ᴀʟᴘʜᴀ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ʙᴏᴛ' : process.env.CAPTIONS,
 global.mess = { // Don't change
     success: 'Done ✅',
     admin: 'Only Admins can use it!😉',
