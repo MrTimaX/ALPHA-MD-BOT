@@ -7,11 +7,11 @@
 <div align="center">
   <p align="center">
 
- <a href="https://github.com/En-cuzier/Queen-Alexa-MD"><img src="https://telegra.ph/file/b373cf75c9fddb6721650.jpg">
+ <a href="https://github.com/Timasha01Buddila/ALPHA-MD-BOT"><img src="https://telegra.ph/file/8e40c1953aae06eb8960e.jpg">
 
   </p>    <a/>
  
-  <a href="https://github.com/En-cuzier/Queen-Alexa-MD"><img src="https://img.shields.io/badge/QUEEN%20ALEXA-MD%20VERSIONS-brightgreen?style=flat-square&logo=appveyor">
+  <a href="https://github.com/Timasha01Buddila/ALPHA-MD-BOT"><img src="https://img.shields.io/badge/ALPHA%20BOT-MD%20VERSION-brightgreen?style=flat-square&logo=appveyor">
 
 ⦁═𝗤𝗨𝗘𝗘𝗡 👸 𝗔𝗟𝗘𝗫𝗔═⦁
 
