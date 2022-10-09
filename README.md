@@ -1,5 +1,5 @@
 
-  <a href="https://github.com/Timasha01Buddila/ALPHA-MD-BOT"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79109&background=84F4FF00&center=true&vCenter=true&width=435&lines=WELCOME+TO+ALPHA+BOT+MULTI-DEVICE+;CREATED+BY+ALPHA+OFFICIAL+TEAM" alt="Typing SVG" /></a>"
+  <a href="https://github.com/Timasha01Buddila/ALPHA-MD-BOT"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79109&background=84F4FF00&center=true&vCenter=true&width=435&lines=WELCOME+TO+ALPHA+BOT+MULTI-DEVICE+;CREATED+BY+ALPHA+OFFICIAL+TEAM" alt="Typing SVG" </a>"
         />
     </a>
 </p>
